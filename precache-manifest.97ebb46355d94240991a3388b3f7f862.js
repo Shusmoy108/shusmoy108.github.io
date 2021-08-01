@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27ccc371208fe34e1e7c988b66e50527",
+    "revision": "e4f53ecc2438f86594326a7d7e43e091",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.47271137.chunk.css"
   },
   {
-    "revision": "7447034753ea0efea60e",
+    "revision": "b1d28710efdb6790e295",
     "url": "/static/css/main.e5e83af3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.4be4497e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7447034753ea0efea60e",
-    "url": "/static/js/main.5fb10da9.chunk.js"
+    "revision": "b1d28710efdb6790e295",
+    "url": "/static/js/main.29bb2688.chunk.js"
   },
   {
     "revision": "13c5ce7c89dba05c4fba",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Arcon-Regular.46e0451e.otf"
   },
   {
-    "revision": "eaa081221ce43aa7136647ac40b4d273",
-    "url": "/static/media/CV.eaa08122.pdf"
+    "revision": "5f6bd336e0061f2b3ad343b2ec4d073b",
+    "url": "/static/media/CV.5f6bd336.pdf"
   },
   {
     "revision": "1fcf6e20e04d591ed9f8427322ad78ae",
